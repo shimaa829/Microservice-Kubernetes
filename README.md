@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<include a CircleCI status badge, here>
 
 ## Project Overview
 
@@ -41,6 +39,4 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-=======
-# Microservice-Kubernetes
->>>>>>> 7e6cc6078272efb708dd88e41d477d2b5bc8f191
+
