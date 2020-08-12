@@ -1,4 +1,7 @@
 
+## CircleCI status badge
+[![CircleCI](https://circleci.com/gh/shimaa829/Microservice-Kubernetes.svg?style=svg)](https://circleci.com/gh/shimaa829/Microservice-Kubernetes/master)
+![alt text](https://github.com/shimaa829/Microservice-Kubernetes/blob/master/Screenshot.png)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
@@ -39,4 +42,6 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+
 
