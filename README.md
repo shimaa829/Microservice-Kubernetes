@@ -48,5 +48,13 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create Flask app in Container
 * Run via kubectl
 
+### Makefile
+A Makefile is a file that contains a set of directives used to build software. Most Unix and Linux operating systems have built-in support for this file format.
+
+### CircleCI
+A popular SaaS (Software as a Service) build systems used in DevOps workflows.
+
+### Docker
+Docker is a company that creates container technology, including an execution engine, collaboration platform via DockerHub and a container format called Dockerfile.
 
 
