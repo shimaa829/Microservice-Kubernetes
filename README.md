@@ -1,7 +1,12 @@
+#  Microservice-Kubernetes
 
 ## CircleCI status badge
+
 [![CircleCI](https://circleci.com/gh/shimaa829/Microservice-Kubernetes.svg?style=svg)](https://circleci.com/gh/shimaa829/Microservice-Kubernetes/master)
+
+## Screenshot
 ![alt text](https://github.com/shimaa829/Microservice-Kubernetes/blob/master/Screenshot.png)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
