@@ -1,3 +1,11 @@
+#  Microservice-Kubernetes
+
+## CircleCI status badge
+
+[![CircleCI](https://circleci.com/gh/shimaa829/Microservice-Kubernetes.svg?style=svg)](https://circleci.com/gh/shimaa829/Microservice-Kubernetes/master)
+
+## Screenshot
+![alt text](https://github.com/shimaa829/Microservice-Kubernetes/blob/master/Screenshot.png)
 
 ## Project Overview
 
@@ -39,4 +47,14 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Makefile
+A Makefile is a file that contains a set of directives used to build software. Most Unix and Linux operating systems have built-in support for this file format.
+
+### CircleCI
+A popular SaaS (Software as a Service) build systems used in DevOps workflows.
+
+### Docker
+Docker is a company that creates container technology, including an execution engine, collaboration platform via DockerHub and a container format called Dockerfile.
+
 
